@@ -1,0 +1,58 @@
+{
+  "executed_at_utc": "2026-09-18T12:40:11.905883+00:00",
+  "seed": 42,
+  "spacy_seeds": [
+    42,
+    43,
+    44
+  ],
+  "validation_size": 0.2,
+  "bootstrap_samples": 1000,
+  "dataset_sizes": {
+    "development": 200,
+    "train": 160,
+    "validation": 40,
+    "human_test": 100
+  },
+  "versions": {
+    "python": "3.13.5",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "sklearn-crfsuite": "0.5.0",
+    "spacy": "3.8.16",
+    "iterative-stratification": "0.1.9"
+  },
+  "selected_crf": {
+    "c1": 0.01,
+    "c2": 0.01
+  },
+  "selected_spacy": {
+    "dropout": 0.1,
+    "epochs": 14,
+    "seed": 42
+  },
+  "search_space": {
+    "crf_c_grid": [
+      0.01,
+      0.1,
+      1.0
+    ],
+    "crf_base_params": {
+      "algorithm": "lbfgs",
+      "max_iterations": 100,
+      "all_possible_transitions": true
+    },
+    "spacy_dropouts": [
+      0.1,
+      0.2
+    ],
+    "spacy_max_epochs": 30,
+    "early_stopping_patience": 5,
+    "spacy_batch_schedule": [
+      4.0,
+      16.0,
+      1.25
+    ]
+  }
+}

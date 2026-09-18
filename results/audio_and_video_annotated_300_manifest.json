@@ -1,0 +1,29 @@
+{
+  "dataset": "data/annotations/audio_and_video_annotated_300.jsonl",
+  "records": 300,
+  "entities": 1042,
+  "labels": {
+    "CONECTIVIDADE": 228,
+    "COR": 151,
+    "MARCA": 287,
+    "POTENCIA": 72,
+    "PRODUTO": 304
+  },
+  "sources": [
+    {
+      "file": "data/annotations/audio_and_video_pilot_100_reviewed.jsonl",
+      "records": 100,
+      "annotation": "revisão humana no Doccano"
+    },
+    {
+      "file": "data/annotations/audio_and_video_additional_200_reviewed.jsonl",
+      "records": 200,
+      "annotation": "anotação assistida por IA conforme o guia do projeto"
+    }
+  ],
+  "validation": {
+    "unique_texts": 300,
+    "invalid_offsets": 0,
+    "overlaps": 0
+  }
+}

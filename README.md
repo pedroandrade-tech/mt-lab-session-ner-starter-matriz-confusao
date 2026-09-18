@@ -5,6 +5,49 @@
 2. NOME INTEGRANTE - EMAIL
 3. NOME INTEGRANTE - EMAIL
 
+> Preencher os nomes e e-mails dos integrantes antes da submissão.
+
+## Solução desenvolvida
+
+- **Base escolhida:** `data/raw/audio_and_video.ibyte.json`.
+- **Entidades:** `PRODUTO`, `MARCA`, `CONECTIVIDADE`, `COR` e `POTENCIA`.
+- **Base final:** 300 títulos e 1.042 entidades em
+  [`data/annotations/audio_and_video_annotated_300.jsonl`](data/annotations/audio_and_video_annotated_300.jsonl).
+- **Teste final:** 100 títulos revisados manualmente no Doccano.
+- **Desenvolvimento:** 200 títulos anotados com assistência de IA, seguindo o
+  [guia de anotação](docs/guia_anotacao_ner.md).
+- **Abordagens comparadas:** regras, CRF e spaCy NER leve.
+
+O treinamento, a seleção de configurações e a avaliação estão organizados no
+notebook [`notebooks/01_treinamento_avaliacao_ner.ipynb`](notebooks/01_treinamento_avaliacao_ner.ipynb),
+com as saídas da execução preservadas.
+
+### Resultado final
+
+| Abordagem | Precisão | Recall | F1 micro |
+|---|---:|---:|---:|
+| CRF | 0,981 | 0,933 | **0,956** |
+| spaCy NER | 0,941 | 0,918 | 0,929 |
+| Regras | 0,983 | 0,686 | 0,808 |
+
+O **CRF** foi selecionado por apresentar o melhor F1 e desempenho consistente entre
+as cinco entidades. Os resultados completos estão em
+[`results/ner_models/`](results/ner_models/), incluindo comparação dos modelos,
+métricas por TAG e matrizes de confusão.
+
+### Fluxo do projeto
+
+1. `prepare_audio_and_video.py`: limpeza da base escolhida;
+2. `prepare_doccano.py` e `preannotate_ner.py`: preparação e pré-anotação;
+3. `create_annotation_pilot.py`: seleção do piloto revisado no Doccano;
+4. `create_annotation_additional.py` e `annotate_additional_ai_review.py`: criação e
+   anotação assistida dos 200 títulos adicionais;
+5. `combine_reviewed_annotations.py`: formação da base final de 300 títulos;
+6. `01_treinamento_avaliacao_ner.ipynb`: treinamento e comparação das abordagens.
+
+As versões usadas na execução estão registradas em
+[`results/ner_models/metadados_execucao.json`](results/ner_models/metadados_execucao.json).
+
 ## Prerequisites:
 * Docker
 * Python

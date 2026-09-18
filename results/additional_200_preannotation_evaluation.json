@@ -1,0 +1,71 @@
+{
+  "method": "strict exact match: start, end and label",
+  "predictions": "data/annotations/audio_and_video_additional_200.jsonl",
+  "gold": "data/annotations/audio_and_video_additional_200_reviewed.jsonl",
+  "records": 200,
+  "exact_records": 74,
+  "changed_records": 126,
+  "micro": {
+    "tp": 502,
+    "fp": 14,
+    "fn": 212,
+    "predicted": 516,
+    "support_gold": 714,
+    "precision": 0.9728682170542635,
+    "recall": 0.7030812324929971,
+    "f1": 0.8162601626016259
+  },
+  "macro_f1": 0.842364751741455,
+  "per_label": {
+    "CONECTIVIDADE": {
+      "tp": 119,
+      "fp": 1,
+      "fn": 38,
+      "predicted": 120,
+      "support_gold": 157,
+      "precision": 0.9916666666666667,
+      "recall": 0.7579617834394905,
+      "f1": 0.8592057761732852
+    },
+    "COR": {
+      "tp": 93,
+      "fp": 0,
+      "fn": 13,
+      "predicted": 93,
+      "support_gold": 106,
+      "precision": 1.0,
+      "recall": 0.8773584905660378,
+      "f1": 0.9346733668341709
+    },
+    "MARCA": {
+      "tp": 132,
+      "fp": 4,
+      "fn": 66,
+      "predicted": 136,
+      "support_gold": 198,
+      "precision": 0.9705882352941176,
+      "recall": 0.6666666666666666,
+      "f1": 0.7904191616766466
+    },
+    "POTENCIA": {
+      "tp": 45,
+      "fp": 2,
+      "fn": 5,
+      "predicted": 47,
+      "support_gold": 50,
+      "precision": 0.9574468085106383,
+      "recall": 0.9,
+      "f1": 0.9278350515463918
+    },
+    "PRODUTO": {
+      "tp": 113,
+      "fp": 7,
+      "fn": 90,
+      "predicted": 120,
+      "support_gold": 203,
+      "precision": 0.9416666666666667,
+      "recall": 0.5566502463054187,
+      "f1": 0.69969040247678
+    }
+  }
+}

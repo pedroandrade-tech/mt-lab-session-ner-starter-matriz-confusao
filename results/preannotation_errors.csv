@@ -1,0 +1,108 @@
+record,error_type,label,start,end,entity_text,text
+1,FN,PRODUTO,0,16,Tela de Projeção,Tela de Projeção com Tripé 180x180cm | GT
+1,FN,MARCA,39,41,GT,Tela de Projeção com Tripé 180x180cm | GT
+2,FN,MARCA,39,41,GT,Caixa de Som Amplificada Bluetooth TWS GT Way | GT
+2,FN,MARCA,48,50,GT,Caixa de Som Amplificada Bluetooth TWS GT Way | GT
+3,FN,PRODUTO,0,3,MP4,MP4 8GB LCD 1.8
+6,FN,PRODUTO,0,11,Mini System,"Mini System LG CM4350 com MP3, Multi Bluetooth e Dual USB – 220 W"
+7,FN,PRODUTO,0,9,Headphone,"Headphone JBL Tune 600 BT NC, Bluetooth, Preto"
+7,FN,CONECTIVIDADE,23,25,BT,"Headphone JBL Tune 600 BT NC, Bluetooth, Preto"
+8,FN,COR,27,33,Silver,Headset Gamer HyperX Cloud Silver - HX-HSCL-SR/NA
+11,FN,PRODUTO,8,15,Mochila,Kit com Mochila para Notebook 15.6
+12,FN,PRODUTO,0,7,Earhook,Earhook Sport Stereo Áudio - PH207
+13,FN,PRODUTO,0,11,Mini System,"Mini System LG, 1800W RMS, Multi Bluetooth, com Controle Remoto - CJ87"
+14,FP,PRODUTO,30,38,Projetor,Smart Screen Linux Com Função Projetor 2200 Lumens Multilaser - PJ003
+14,FN,PRODUTO,0,12,Smart Screen,Smart Screen Linux Com Função Projetor 2200 Lumens Multilaser - PJ003
+15,FN,PRODUTO,0,9,Headphone,Headphone Estéreo Hi-Fi GT Soul Colors - Azul | GT
+15,FN,MARCA,24,26,GT,Headphone Estéreo Hi-Fi GT Soul Colors - Azul | GT
+15,FN,MARCA,48,50,GT,Headphone Estéreo Hi-Fi GT Soul Colors - Azul | GT
+16,FN,PRODUTO,0,17,Caixa Amplificada,Caixa Amplificada Amvox Aca 780 Vulcano Bluetooth 700w Bluetooth LED Rádio FM
+17,FN,PRODUTO,16,23,Speaker,Pulse Bluetooth Speaker Adventure - SP353
+18,FN,PRODUTO,0,8,Earphone,Earphone TWS Pulse Drop PRETO Pulse Sound - PH345
+18,FN,MARCA,30,35,Pulse,Earphone TWS Pulse Drop PRETO Pulse Sound - PH345
+19,FN,PRODUTO,0,7,Earhook,Earhook Sport Stereo Áudio - PH204
+20,FN,CONECTIVIDADE,15,18,Aux,Fone De Ouvido Aux. P2 Large Verde Pulse - PH227
+21,FP,PRODUTO,23,31,Projetor,Suporte Universal para Projetor 3 em 1 | GT
+21,FN,PRODUTO,0,7,Suporte,Suporte Universal para Projetor 3 em 1 | GT
+21,FN,MARCA,41,43,GT,Suporte Universal para Projetor 3 em 1 | GT
+22,FN,MARCA,35,44,Goldentec,Headset Gamer Preto com Vermelho | Goldentec
+23,FN,PRODUTO,0,8,Earphone,Earphone Sport Stereo Áudio - PH203
+25,FN,PRODUTO,0,9,Headphone,Headphone Premium Wired Large Laranja - PH239
+27,FN,PRODUTO,0,11,Mini System,Mini System Sony V21D com tecnologia Bluetooth / karaokê / Wireless Party Chain
+28,FN,PRODUTO,16,23,Speaker,Pulse Bluetooth Speaker Splash - SP354
+29,FN,PRODUTO,0,7,Earhook,Earhook Sport Stereo Audio - PH205
+30,FN,PRODUTO,10,19,Headphone,Kit com 2 Headphone Bluetooth GT Follow Verde e Amarelo | GT
+30,FN,MARCA,30,32,GT,Kit com 2 Headphone Bluetooth GT Follow Verde e Amarelo | GT
+30,FN,MARCA,58,60,GT,Kit com 2 Headphone Bluetooth GT Follow Verde e Amarelo | GT
+33,FN,PRODUTO,6,17,Mini System,Retro Mini System Vintage 250W CD/BT/USB/SD/FM/AUX Pulse - SP387
+33,FN,CONECTIVIDADE,34,36,BT,Retro Mini System Vintage 250W CD/BT/USB/SD/FM/AUX Pulse - SP387
+33,FN,CONECTIVIDADE,41,43,SD,Retro Mini System Vintage 250W CD/BT/USB/SD/FM/AUX Pulse - SP387
+33,FN,CONECTIVIDADE,47,50,AUX,Retro Mini System Vintage 250W CD/BT/USB/SD/FM/AUX Pulse - SP387
+34,FN,PRODUTO,0,9,Headphone,Headphone Multilaser Kids Happy Azul - PH377
+35,FN,PRODUTO,0,8,Earphone,Earphone Expert Bluetooth 4.2 TWS Pulse - PH297
+35,FN,MARCA,34,39,Pulse,Earphone Expert Bluetooth 4.2 TWS Pulse - PH297
+36,FN,PRODUTO,46,68,Apresentador de Slides,Kit Projetor Multimídia 5500 Lumens Full HD + Apresentador de Slides
+38,FN,MARCA,49,54,Pulse,Caixa de Som Retrô Bluetooth Speaker Presley 80W Pulse - SP367
+39,FN,CONECTIVIDADE,19,23,Rj09,Headset C/Conector Rj09 P/Telemarketing - Multilaser
+40,FN,PRODUTO,0,7,Boombox,"Boombox / Som Portátil Philco PB140, MP3, MP4, FM, Branco - Bivolt"
+40,FN,PRODUTO,10,22,Som Portátil,"Boombox / Som Portátil Philco PB140, MP3, MP4, FM, Branco - Bivolt"
+41,FN,PRODUTO,0,8,Earphone,Earphone Sport Bluetooth 4.1 TWS Resistente à Água Preto Pulse - PH267
+41,FN,MARCA,57,62,Pulse,Earphone Sport Bluetooth 4.1 TWS Resistente à Água Preto Pulse - PH267
+42,FN,MARCA,14,18,Sony,Headset Gamer Sony Pulse 3D para PS5
+46,FN,MARCA,31,40,Goldentec,Fone de Ouvido F50 Basic Preto Goldentec
+48,FN,PRODUTO,0,16,Tela de Projeção,"Tela de Projeção Retrátil 1,80x1,80m até 100"
+49,FN,PRODUTO,0,11,Toca-Discos,Toca-Discos Vinil Retrô Tennessee Azul 40.262 Classic - Azul
+50,FN,PRODUTO,0,16,Tela De Projeção,"Tela De Projeção Elétrica 2,03X1,52M 100 Polegadas Com Controle Remoto 220V - AC355"
+51,FN,CONECTIVIDADE,13,21,Bluetooh,Caixa De Som Bluetooh 5w Preta - Geonav Aercx01bk
+52,FN,MARCA,26,28,GT,Caixa de Som 3W Bluetooth GT Pure Gold Goldentec
+52,FN,COR,34,38,Gold,Caixa de Som 3W Bluetooth GT Pure Gold Goldentec
+52,FN,MARCA,39,48,Goldentec,Caixa de Som 3W Bluetooth GT Pure Gold Goldentec
+55,FN,PRODUTO,0,17,Caixa Amplificada,"Caixa Amplificada Frahm CM 300 BT Multiuso, Portátil, USB, Bluetooth - Bivolt"
+55,FN,CONECTIVIDADE,31,33,BT,"Caixa Amplificada Frahm CM 300 BT Multiuso, Portátil, USB, Bluetooth - Bivolt"
+57,FN,PRODUTO,0,9,Headphone,Headphone Estéreo Hi-Fi GT Soul Colors - Roxo | GT
+57,FN,MARCA,24,26,GT,Headphone Estéreo Hi-Fi GT Soul Colors - Roxo | GT
+57,FN,MARCA,48,50,GT,Headphone Estéreo Hi-Fi GT Soul Colors - Roxo | GT
+59,FN,PRODUTO,0,10,Dvd Player,Dvd Player Multilaser Com Saída RCA SP252 Preto - Bivolt
+61,FN,PRODUTO,0,10,MP4 Player,MP4 Player 8GB LCD 1.8
+62,FP,PRODUTO,13,25,Caixa de Som,"Suporte Para Caixa de Som Amplificada, 150W/400W Power 2 | GT"
+62,FN,PRODUTO,0,7,Suporte,"Suporte Para Caixa de Som Amplificada, 150W/400W Power 2 | GT"
+62,FN,MARCA,59,61,GT,"Suporte Para Caixa de Som Amplificada, 150W/400W Power 2 | GT"
+63,FN,PRODUTO,0,8,Earphone,Earphone Sport Stereo Áudio - PH201
+64,FN,PRODUTO,0,16,Tela de Projeção,Tela de Projeção Retrátil 2 x 2m até 110
+65,FN,PRODUTO,0,10,Toca-Disco,Toca-Disco ObaWave Conversor de Vinil Obabox - OB007
+65,FN,MARCA,38,44,Obabox,Toca-Disco ObaWave Conversor de Vinil Obabox - OB007
+66,FN,PRODUTO,0,16,Tela de Projeção,Tela de Projeção Retrátil 200x150cm | GT
+66,FN,MARCA,38,40,GT,Tela de Projeção Retrátil 200x150cm | GT
+71,FN,PRODUTO,0,17,Caixa Amplificada,"Caixa Amplificada Amvox ACA 1501 New X com Bluetooth 1500W, Preto - Bivolt"
+74,FN,MARCA,31,40,Goldentec,Caixa de Som Bluetooth 20W RMS Goldentec GT Inspire INSPBLU - Alumínio
+74,FN,MARCA,41,43,GT,Caixa de Som Bluetooth 20W RMS Goldentec GT Inspire INSPBLU - Alumínio
+77,FN,PRODUTO,0,11,Mini System,"Mini System Portátil Novik Neo Impact 3, 1200W USB/BT/SD Com Bateria"
+77,FN,CONECTIVIDADE,51,53,BT,"Mini System Portátil Novik Neo Impact 3, 1200W USB/BT/SD Com Bateria"
+77,FN,CONECTIVIDADE,54,56,SD,"Mini System Portátil Novik Neo Impact 3, 1200W USB/BT/SD Com Bateria"
+78,FN,PRODUTO,0,8,Earphone,Earphone Hands Free Stereo Áudio Wired - PH189
+79,FN,PRODUTO,0,13,Smart Speaker,Smart Speaker com Alexa Amazon Echo 3ª geração - Cor Preta
+80,FN,PRODUTO,0,9,Headphone,Headphone Studio Pro Goldentec
+80,FN,MARCA,21,30,Goldentec,Headphone Studio Pro Goldentec
+81,FP,PRODUTO,82,86,fone,"Caixa Amplificada BlueTooth Multi-Uso NKS PK550 100W RMS, Rádio FM, Entradas Microfone,USB,SD"
+81,FN,PRODUTO,0,17,Caixa Amplificada,"Caixa Amplificada BlueTooth Multi-Uso NKS PK550 100W RMS, Rádio FM, Entradas Microfone,USB,SD"
+81,FN,CONECTIVIDADE,91,93,SD,"Caixa Amplificada BlueTooth Multi-Uso NKS PK550 100W RMS, Rádio FM, Entradas Microfone,USB,SD"
+84,FN,MARCA,32,34,GT,Caixa de Som Bluetooth 100W RMS GT Elegance | GT
+84,FN,MARCA,46,48,GT,Caixa de Som Bluetooth 100W RMS GT Elegance | GT
+88,FN,PRODUTO,0,10,Dvd Player,Dvd Player Multilaser Com HDMI - SP193
+89,FN,PRODUTO,8,16,Smart TV,Kit com Smart TV 43
+90,FN,PRODUTO,0,12,Amplificador,Amplificador Frahm Profissional GR 5000
+92,FN,PRODUTO,0,10,Toca Disco,Toca Disco North Ribeiro e Pavani 47.000 - Preto
+92,FN,MARCA,17,33,Ribeiro e Pavani,Toca Disco North Ribeiro e Pavani 47.000 - Preto
+93,FN,PRODUTO,0,7,Earhook,Earhook Sport Stereo Áudio - PH206
+94,FN,PRODUTO,0,10,iPod touch,"iPod touch 6 Apple, 64GB,iOS 8, Chip A8 , Wi-Fi/Bluetooth, Silver MKHJ2BZ/A"
+94,FN,COR,59,65,Silver,"iPod touch 6 Apple, 64GB,iOS 8, Chip A8 , Wi-Fi/Bluetooth, Silver MKHJ2BZ/A"
+95,FN,PRODUTO,0,16,Tela de Projeção,Tela de Projeção Retrátil 200x150cm + Apresentador de Slides Wireless GT5 com Laserpoint | GT
+95,FN,PRODUTO,38,60,Apresentador de Slides,Tela de Projeção Retrátil 200x150cm + Apresentador de Slides Wireless GT5 com Laserpoint | GT
+95,FN,MARCA,91,93,GT,Tela de Projeção Retrátil 200x150cm + Apresentador de Slides Wireless GT5 com Laserpoint | GT
+96,FN,PRODUTO,16,23,Speaker,Pulse Bluetooth Speaker Wave II Preta - SP355
+97,FN,CONECTIVIDADE,61,67,Óptico,SoundBar LG SL5Y 2.1 Canais Subwoofer Wireless Bluetooth USB Óptico In HDMI Bivolt - 400W
+98,FN,PRODUTO,4,9,Caixa,Kit Caixa JBL GO 2 Red + JBL Bar 2.1 Deep Bass
+98,FN,COR,19,22,Red,Kit Caixa JBL GO 2 Red + JBL Bar 2.1 Deep Bass
+98,FN,MARCA,25,28,JBL,Kit Caixa JBL GO 2 Red + JBL Bar 2.1 Deep Bass
+100,FN,CONECTIVIDADE,62,65,Aux,Caixa De Som Party Speaker Torre 500W Rms Bluetooth/ Usb/ Fm/ Aux Pulse - SP322
+100,FN,MARCA,66,71,Pulse,Caixa De Som Party Speaker Torre 500W Rms Bluetooth/ Usb/ Fm/ Aux Pulse - SP322

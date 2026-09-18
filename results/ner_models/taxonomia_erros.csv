@@ -1,0 +1,4 @@
+Abordagem,Omissão,Entidade espúria,Fronteira incorreta,TAG errada
+Regras,103,4,0.0,0.0
+CRF,21,5,1.0,0.0
+spaCy NER,22,14,3.0,2.0
