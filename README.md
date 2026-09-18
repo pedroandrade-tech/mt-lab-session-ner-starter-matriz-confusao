@@ -1,9 +1,9 @@
 # mt-lab-session-ner-starter
 
 ## Grupo
-1. NOME INTEGRANTE - EMAIL
-2. NOME INTEGRANTE - EMAIL
-3. NOME INTEGRANTE - EMAIL
+1. Pedro Andrade - pfa@cesar.school | pedrofdeandrade@gmail.com
+2. Sandro Diniz - sandrodinizpsi603@gmail.com
+3. Yvana Alencastro - yvana.alencastro@gmail.com
 
 > Preencher os nomes e e-mails dos integrantes antes da submissão.
 
