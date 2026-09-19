@@ -5,8 +5,6 @@
 2. Sandro Diniz - sandrodinizpsi603@gmail.com
 3. Yvana Alencastro - yvana.alencastro@gmail.com
 
-> Preencher os nomes e e-mails dos integrantes antes da submissão.
-
 ## Solução desenvolvida
 
 - **Base escolhida:** `data/raw/audio_and_video.ibyte.json`.
